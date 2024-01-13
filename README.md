@@ -15,13 +15,13 @@ nos links CDN do Bootstrap 5, do CSS, do JavaScript, e nos links das fontes.
 
 
 ## :calling: Layout
-Você pode visualizar e interagir com o layout do projeto por meio do link: . 
-Experimente utilizar "Ctrl + Shift + M" e testar diferentes tamanhos de tela de dispositivos menores para vivenciar 
-a totalidade do layout responsivo do projeto.
+Você pode visualizar e interagir com o layout do projeto por meio do link: https://souzlays.github.io/Desenvolvimento-de-Layout---Lista-de-Tarefas/
+Experimente testar diferentes tamanhos de tela de dispositivos menores como smartphones ou tablets, 
+para vivenciar a totalidade do layout responsivo do projeto.
 ---
 Desenvolvido por Lays Souza. 
 
-Links de rede sociais e portfólio:
+Links de rede sociais:
 
 Linkedin: https://www.linkedin.com/in/lays-souza-desenvolvedora/
-Github: https://github.com/souzlays
+
