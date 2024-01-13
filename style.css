@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+  min-height:100vh;
+  background-color: #161A30;
+}
+
+#menu {
+  min-height: 100vh;
+  background-color: #31304D;
+}
+#titulo-menu, 
+p {
+  color: #F0ECE5;
+}
+
+.bi {
+  font-size: 30px;
+  color: #F0ECE5;
+}
+
+.list-group {
+  list-style: none;
+}
+
+.col h2 {
+  color: #F0ECE5;
+}
+
+button.btn {
+  background-color: #31304D;
+  color: #F0ECE5;
+}
+
