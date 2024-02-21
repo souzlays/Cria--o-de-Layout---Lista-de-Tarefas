@@ -23,5 +23,5 @@ Desenvolvido por Lays Souza.
 
 Links de rede sociais:
 
-Linkedin: https://www.linkedin.com/in/lays-souza-desenvolvedora/
+[Linkedin](https://www.linkedin.com/in/lays-souza-desenvolvedora/)
 
